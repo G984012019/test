@@ -42,4 +42,4 @@ setInterval(function(){
 
 
 },1000/FPS);
-//https://g984012019.github.io/Snake-game/SnakeGame%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC.html
+
